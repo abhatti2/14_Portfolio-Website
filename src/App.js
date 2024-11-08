@@ -14,7 +14,7 @@ function App() {
     const basicInfo = {
         name: "Ashbeel Bhatti",
         location: "Winnipeg, MB",
-        email: "abhatti2@gmail.com",
+        email: "abhatti2@rrc.ca",
         github: "https://github.com/abhatti2",
         summary: "Web Application Developer with a strong foundation in Full Stack Development. Proficient in front-end technologies like JavaScript and React, as well as back-end frameworks such as Ruby on Rails, PHP, and Python. Experienced in building responsive, user-friendly web applications and integrating APIs. Known for collaborative problem-solving and dedicated to crafting optimized digital experiences."
     };
